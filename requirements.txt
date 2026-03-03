@@ -1,0 +1,8 @@
+Django==6.0.1
+djangorestframework==3.16.1
+adrf==0.1.12
+asgiref==3.11.0
+httpx==0.28.1
+Requests==2.32.5
+django-debug-toolbar
+uvicorn
